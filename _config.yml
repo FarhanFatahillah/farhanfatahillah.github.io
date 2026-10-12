@@ -13,7 +13,7 @@ title: "Muhammad Farhan Fatahillah"
 title_separator: "-"
 name: &name "Fatahillah"
 description: &description "Muhammad Farhan Fatahillah" # Update this with a general description of your site, this is the default if not overridden by a page
-url: https://fatahillah.github.io
+url: https://KaiNamikaze.github.io
   # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -25,13 +25,13 @@ repository: "KaiNamikaze/fatahillah.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Your Sidebar Name"
+  name: "Muhammad Farhan Fatahillah"
   pronouns: # example: "she/her"  
-  bio: "Short biography for the left-hand sidebar"
-  location: "Earth"
-  employer: "Red Brick University"
+  bio: "Hi My Name is Muhammad Farhan Fatahillah, Currently i'm a Gradute Student at Mathematics Department in Hasanuddin University doing Research on Hyperstructure Algebra"
+  location: "Makassar, South Sulawesi, Indonesia"
+  employer: "Hasanuddin University"
   uri: # URL
-  email: "none@example.org"
+  email: "fatahillahmf25h@student.ac.id"
 
   # Academic websites
   academia: # URL
@@ -51,7 +51,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "KaiNamikaze"
   kaggle: # Username  
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
