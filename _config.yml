@@ -13,11 +13,11 @@ title: "Muhammad Farhan Fatahillah"
 title_separator: "-"
 name: &name "Fatahillah"
 description: &description "Muhammad Farhan Fatahillah" # Update this with a general description of your site, this is the default if not overridden by a page
-url: https://kainamikaze.github.io
+url: https://farhanfatahillah.github.io
   # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "KaiNamikaze/kainamikaze.github.io"
+repository: "FarhanFatahilllah/farhanfatahillah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   avatar: "profile.png"
   name: "Muhammad Farhan Fatahillah"
   pronouns: # example: "she/her"  
-  bio: "Hi My Name is Muhammad Farhan Fatahillah, Currently i'm a Gradute Student at Mathematics Department in Hasanuddin University doing Research on Hyperstructure Algebra"
+  bio: "Hi My Name is Muhammad Farhan Fatahillah, Currently i'm a Graduate Student at Mathematics Department in Hasanuddin University doing Research on Hyperstructure Algebra"
   location: "Makassar, South Sulawesi, Indonesia"
   employer: "Hasanuddin University"
   uri: # URL
@@ -51,7 +51,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "KaiNamikaze"
+  github: "FarhanFatahillah"
   kaggle: # Username  
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
